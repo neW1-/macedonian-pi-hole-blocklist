@@ -1,11 +1,3 @@
-#  Last Update: June 13, 2020 21:23 CET 
-#  
-#  Blacklist compiled by @cchevymk
-#  
-#  You may freely use, copy, and redistribute this blacklist in any manner you like.
-#
-#  Included in the OISD mega list: https://oisd.nl/?p=inc
-# 
 10bet.com
 2mdn.net
 a.sitel.com.mk
